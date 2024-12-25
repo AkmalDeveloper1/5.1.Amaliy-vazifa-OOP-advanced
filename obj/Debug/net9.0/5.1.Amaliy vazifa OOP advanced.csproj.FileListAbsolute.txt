@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\bin\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.exe
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\bin\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.deps.json
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\bin\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\bin\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.dll
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\bin\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.pdb
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.dll
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\refint\5.1.Amaliy vazifa OOP advanced.dll
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.pdb
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\5.1.Amaliy vazifa OOP advanced.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\5.1.Amaliy vazifa OOP advanced\obj\Debug\net9.0\ref\5.1.Amaliy vazifa OOP advanced.dll
